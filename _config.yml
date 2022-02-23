@@ -105,4 +105,3 @@ deploy:
   type: 'git'
   repo: https://github.com/ljkfee/ljkfee.github.io.git
   main: master
-  message: Blog
